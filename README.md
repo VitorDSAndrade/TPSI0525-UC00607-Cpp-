@@ -105,6 +105,10 @@ g++ -std=c++17 -O2 -Wall -Wextra -pedantic \
 
 
  Executar:
+ antes de correr, habilita caracteres especiais, na powershell insere: chcp 65001
+
+ ex: [ PS C:\Users\Vitor\ExCppRH\src> chcp 65001 ]
+
  (de preferencia na powershell apesar de tambem funcionar em cmd)
 
 Windows: ..\\rh_app.exe
